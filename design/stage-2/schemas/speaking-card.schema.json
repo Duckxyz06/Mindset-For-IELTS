@@ -1,0 +1,155 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "unit": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "exerciseId": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "part": {
+      "enum": [
+        1,
+        2,
+        3
+      ]
+    },
+    "prompt_en": {
+      "type": "string",
+      "minLength": 1
+    },
+    "bulletPoints_en": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "sampleAnswer_en": {
+      "type": "string",
+      "minLength": 1
+    },
+    "translation_vi": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sampleSourceType": {
+      "enum": [
+        "textbook",
+        "teacher_authored"
+      ]
+    },
+    "audioTracks": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "source": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "document": {
+              "type": "string",
+              "minLength": 1
+            },
+            "printedPages": {
+              "type": "array",
+              "items": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "pdfPages": {
+              "type": "array",
+              "items": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "sourceSection": {
+              "type": "string",
+              "minLength": 1
+            },
+            "exerciseNo": {
+              "type": [
+                "integer",
+                "null"
+              ],
+              "minimum": 1
+            },
+            "locator": {
+              "type": "string",
+              "minLength": 1
+            },
+            "verificationStatus": {
+              "enum": [
+                "verified",
+                "needs_checking"
+              ]
+            }
+          },
+          "required": [
+            "document",
+            "printedPages",
+            "pdfPages",
+            "sourceSection",
+            "exerciseNo",
+            "locator",
+            "verificationStatus"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "status": {
+      "enum": [
+        "verified",
+        "needs_checking"
+      ]
+    },
+    "translationStatus": {
+      "enum": [
+        "verified",
+        "needs_checking"
+      ]
+    },
+    "assignedForCourseVideo": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "unit",
+    "exerciseId",
+    "part",
+    "prompt_en",
+    "bulletPoints_en",
+    "sampleAnswer_en",
+    "translation_vi",
+    "sampleSourceType",
+    "audioTracks",
+    "source",
+    "status",
+    "translationStatus",
+    "assignedForCourseVideo"
+  ],
+  "additionalProperties": false
+}

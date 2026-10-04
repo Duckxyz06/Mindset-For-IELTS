@@ -1,0 +1,203 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Original English audioscript and independently verified cues",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "track": {
+      "type": "string",
+      "minLength": 1
+    },
+    "segments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "speaker": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "text_en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "translation_vi": {
+            "type": "string",
+            "minLength": 1
+          },
+          "translationStatus": {
+            "enum": [
+              "verified",
+              "needs_checking"
+            ]
+          },
+          "startSec": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "endSec": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "answerQuestionIds": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "source": {
+            "type": "object",
+            "properties": {
+              "document": {
+                "type": "string",
+                "minLength": 1
+              },
+              "printedPages": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "minimum": 1
+                }
+              },
+              "pdfPages": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "minimum": 1
+                }
+              },
+              "sourceSection": {
+                "type": "string",
+                "minLength": 1
+              },
+              "exerciseNo": {
+                "type": [
+                  "integer",
+                  "null"
+                ],
+                "minimum": 1
+              },
+              "locator": {
+                "type": "string",
+                "minLength": 1
+              },
+              "verificationStatus": {
+                "enum": [
+                  "verified",
+                  "needs_checking"
+                ]
+              }
+            },
+            "required": [
+              "document",
+              "printedPages",
+              "pdfPages",
+              "sourceSection",
+              "exerciseNo",
+              "locator",
+              "verificationStatus"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "id",
+          "speaker",
+          "text_en",
+          "translation_vi",
+          "translationStatus",
+          "startSec",
+          "endSec",
+          "answerQuestionIds",
+          "source"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "document": {
+          "type": "string",
+          "minLength": 1
+        },
+        "printedPages": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "pdfPages": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "sourceSection": {
+          "type": "string",
+          "minLength": 1
+        },
+        "exerciseNo": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "locator": {
+          "type": "string",
+          "minLength": 1
+        },
+        "verificationStatus": {
+          "enum": [
+            "verified",
+            "needs_checking"
+          ]
+        }
+      },
+      "required": [
+        "document",
+        "printedPages",
+        "pdfPages",
+        "sourceSection",
+        "exerciseNo",
+        "locator",
+        "verificationStatus"
+      ],
+      "additionalProperties": false
+    },
+    "cueStatus": {
+      "enum": [
+        "verified",
+        "not_created",
+        "needs_checking"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "track",
+    "segments",
+    "source",
+    "cueStatus"
+  ],
+  "additionalProperties": false
+}
