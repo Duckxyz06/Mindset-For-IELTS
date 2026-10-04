@@ -1,0 +1,270 @@
+{
+  "played": [
+    {
+      "track": "09",
+      "duration": 54.544,
+      "ready": 4
+    },
+    {
+      "track": "14",
+      "duration": 138.832,
+      "ready": 4
+    },
+    {
+      "track": "15",
+      "duration": 101.32,
+      "ready": 4
+    },
+    {
+      "track": "16",
+      "duration": 127.744,
+      "ready": 4
+    },
+    {
+      "track": "17",
+      "duration": 85.168,
+      "ready": 4
+    },
+    {
+      "track": "18",
+      "duration": 67.504,
+      "ready": 4
+    },
+    {
+      "track": "19",
+      "duration": 56.08,
+      "ready": 4
+    },
+    {
+      "track": "20",
+      "duration": 85.696,
+      "ready": 4
+    },
+    {
+      "track": "21",
+      "duration": 33.28,
+      "ready": 4
+    },
+    {
+      "track": "25",
+      "duration": 133.984,
+      "ready": 4
+    },
+    {
+      "track": "26",
+      "duration": 108.28,
+      "ready": 4
+    },
+    {
+      "track": "27",
+      "duration": 172.744,
+      "ready": 4
+    },
+    {
+      "track": "28",
+      "duration": 118.456,
+      "ready": 4
+    },
+    {
+      "track": "31",
+      "duration": 108.88,
+      "ready": 4
+    },
+    {
+      "track": "32",
+      "duration": 68.104,
+      "ready": 4
+    },
+    {
+      "track": "33",
+      "duration": 88.072,
+      "ready": 4
+    },
+    {
+      "track": "34",
+      "duration": 40.168,
+      "ready": 4
+    },
+    {
+      "track": "35",
+      "duration": 88.36,
+      "ready": 4
+    },
+    {
+      "track": "36",
+      "duration": 52.912,
+      "ready": 4
+    },
+    {
+      "track": "37",
+      "duration": 147.208,
+      "ready": 4
+    },
+    {
+      "track": "38",
+      "duration": 65.32,
+      "ready": 4
+    },
+    {
+      "track": "39",
+      "duration": 170.2,
+      "ready": 4
+    },
+    {
+      "track": "40",
+      "duration": 188.272,
+      "ready": 4
+    },
+    {
+      "track": "41",
+      "duration": 340.912,
+      "ready": 4
+    },
+    {
+      "track": "42",
+      "duration": 152.128,
+      "ready": 4
+    },
+    {
+      "track": "43",
+      "duration": 76.84,
+      "ready": 4
+    },
+    {
+      "track": "44",
+      "duration": 169.96,
+      "ready": 4
+    },
+    {
+      "track": "45",
+      "duration": 88.528,
+      "ready": 4
+    },
+    {
+      "track": "46",
+      "duration": 50.656,
+      "ready": 4
+    },
+    {
+      "track": "47",
+      "duration": 83.704,
+      "ready": 4
+    },
+    {
+      "track": "48",
+      "duration": 81.688,
+      "ready": 4
+    },
+    {
+      "track": "49",
+      "duration": 73.168,
+      "ready": 4
+    },
+    {
+      "track": "50",
+      "duration": 105.736,
+      "ready": 4
+    },
+    {
+      "track": "51",
+      "duration": 50.344,
+      "ready": 4
+    },
+    {
+      "track": "53",
+      "duration": 39.328,
+      "ready": 4
+    },
+    {
+      "track": "54",
+      "duration": 152.944,
+      "ready": 4
+    },
+    {
+      "track": "55",
+      "duration": 57.448,
+      "ready": 4
+    },
+    {
+      "track": "56",
+      "duration": 306.04,
+      "ready": 4
+    },
+    {
+      "track": "57",
+      "duration": 31.288,
+      "ready": 4
+    },
+    {
+      "track": "58",
+      "duration": 51.4,
+      "ready": 4
+    },
+    {
+      "track": "59",
+      "duration": 57.064,
+      "ready": 4
+    },
+    {
+      "track": "60",
+      "duration": 73.456,
+      "ready": 4
+    },
+    {
+      "track": "61",
+      "duration": 107.848,
+      "ready": 4
+    },
+    {
+      "track": "62",
+      "duration": 390.328,
+      "ready": 4
+    },
+    {
+      "track": "63",
+      "duration": 107.416,
+      "ready": 4
+    },
+    {
+      "track": "64",
+      "duration": 214.096,
+      "ready": 4
+    },
+    {
+      "track": "65",
+      "duration": 346.48,
+      "ready": 4
+    },
+    {
+      "track": "66",
+      "duration": 194.344,
+      "ready": 4
+    },
+    {
+      "track": "67",
+      "duration": 367.408,
+      "ready": 4
+    },
+    {
+      "track": "68",
+      "duration": 313.36,
+      "ready": 4
+    },
+    {
+      "track": "69",
+      "duration": 212.8,
+      "ready": 4
+    },
+    {
+      "track": "70",
+      "duration": 260.2,
+      "ready": 4
+    }
+  ],
+  "recording": {
+    "fakeDevice": true,
+    "started": true,
+    "storedBytes": 11686,
+    "restored": true
+  }
+}

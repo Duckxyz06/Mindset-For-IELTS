@@ -1,0 +1,264 @@
+[
+  {
+    "track": "02",
+    "exerciseIds": ["u1-listening-ex-04", "u1-listening-ex-05"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "03",
+    "exerciseIds": ["u1-listening-ex-07"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "04",
+    "exerciseIds": ["u1-listening-ex-10", "u1-listening-ex-11"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "05",
+    "exerciseIds": ["u1-listening-ex-16"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "06",
+    "exerciseIds": ["u1-speaking-ex-04"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "07",
+    "exerciseIds": ["u1-speaking-ex-05", "u1-speaking-ex-06"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "08",
+    "exerciseIds": ["u1-speaking-ex-07", "u1-speaking-ex-10"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "09",
+    "exerciseIds": [
+      "u1-speaking-ex-12",
+      "u1-speaking-ex-14",
+      "u1-speaking-ex-15"
+    ],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "10",
+    "exerciseIds": ["u2-listening-ex-06"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "11",
+    "exerciseIds": ["u2-listening-ex-08"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "12",
+    "exerciseIds": ["u2-listening-ex-13"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "13",
+    "exerciseIds": ["u2-listening-ex-14"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "14",
+    "exerciseIds": ["u2-speaking-ex-03"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "15",
+    "exerciseIds": ["u2-speaking-ex-05"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "16",
+    "exerciseIds": ["u2-speaking-ex-06"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "17",
+    "exerciseIds": ["u2-speaking-ex-08"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "18",
+    "exerciseIds": ["u3-listening-ex-05"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "19",
+    "exerciseIds": ["u3-listening-ex-06", "u3-listening-ex-07"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "20",
+    "exerciseIds": ["u3-listening-ex-08"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "21",
+    "exerciseIds": ["u3-listening-ex-09", "u3-listening-ex-10"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "22",
+    "exerciseIds": ["u3-listening-ex-11", "u3-listening-ex-12"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "23",
+    "exerciseIds": ["u3-listening-ex-13"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "24",
+    "exerciseIds": ["u3-listening-ex-15"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "25",
+    "exerciseIds": ["u3-speaking-ex-04"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "26",
+    "exerciseIds": ["u3-speaking-ex-13", "u3-speaking-ex-14"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "27",
+    "exerciseIds": ["u4-listening-ex-06"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "28",
+    "exerciseIds": ["u4-listening-ex-08"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "29",
+    "exerciseIds": ["u4-listening-ex-10"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "30",
+    "exerciseIds": ["u4-listening-ex-12"],
+    "availability": "missing",
+    "statusKey": "audio.missing"
+  },
+  {
+    "track": "31",
+    "exerciseIds": ["u4-speaking-ex-02", "u4-speaking-ex-03"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "32",
+    "exerciseIds": ["u4-speaking-ex-04"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "33",
+    "exerciseIds": ["u4-speaking-ex-06"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "34",
+    "exerciseIds": ["u4-speaking-ex-12"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "35",
+    "exerciseIds": ["u5-listening-ex-02"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "36",
+    "exerciseIds": ["u5-listening-ex-04"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "37",
+    "exerciseIds": ["u5-listening-ex-06"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "38",
+    "exerciseIds": ["u5-listening-ex-07"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "39",
+    "exerciseIds": ["u5-listening-ex-10"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "40",
+    "exerciseIds": ["u5-listening-ex-12"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "41",
+    "exerciseIds": ["u5-listening-ex-13"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "42",
+    "exerciseIds": ["u5-speaking-ex-04", "u5-speaking-ex-05"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "43",
+    "exerciseIds": ["u5-speaking-ex-07"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  },
+  {
+    "track": "44",
+    "exerciseIds": ["u5-speaking-ex-08", "u5-speaking-ex-09"],
+    "availability": "available",
+    "statusKey": "audio.available"
+  }
+]

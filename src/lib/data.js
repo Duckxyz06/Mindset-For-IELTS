@@ -1,0 +1,14 @@
+import u1 from "../data/unit-1.json";
+import u2 from "../data/unit-2.json";
+import u3 from "../data/unit-3.json";
+import u4 from "../data/unit-4.json";
+import u5 from "../data/unit-5.json";
+const exercises = [...u1, ...u2, ...u3, ...u4, ...u5];
+import units from "../data/units.json";
+import lessons from "../data/lessons.json";
+import audio from "../data/audio-manifest.json";
+import pages from "../data/source-pages.json";
+import references from "../data/references.json";
+import requirements from "../data/audio-requirements.json";
+export { exercises, units, lessons, audio, pages, references, requirements };
+export const asset = (f) => import.meta.env.BASE_URL + f;
