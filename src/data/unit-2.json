@@ -6,25 +6,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 1,
     "sourceLabel": "Unit 2 – Reading – Ex 01",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 30,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -35,12 +24,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-02",
@@ -49,25 +33,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 2,
     "sourceLabel": "Unit 2 – Reading – Ex 02",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 30,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -78,12 +51,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-03",
@@ -92,25 +60,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 3,
     "sourceLabel": "Unit 2 – Reading – Ex 03",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 30,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -121,12 +78,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-04",
@@ -135,38 +87,158 @@
     "sourceSection": "Reading",
     "exerciseNo": 4,
     "sourceLabel": "Unit 2 – Reading – Ex 04",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
-    "answerStatus": "not_checked",
+    "answerStatus": "verified",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 30,
     "anchorStatus": "needs_checking",
-    "questions": [],
+    "questions": [
+      {
+        "id": "u2-reading-ex-04-q-1",
+        "no": "1",
+        "text_en": "",
+        "options": [],
+        "answer": "C",
+        "acceptedAnswers": ["C"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 186,
+          "locator": "Unit 2 Reading Ex 4, question 1",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-04-q-2",
+        "no": "2",
+        "text_en": "",
+        "options": [],
+        "answer": "F",
+        "acceptedAnswers": ["F"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 186,
+          "locator": "Unit 2 Reading Ex 4, question 2",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-04-q-3",
+        "no": "3",
+        "text_en": "",
+        "options": [],
+        "answer": "A",
+        "acceptedAnswers": ["A"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 186,
+          "locator": "Unit 2 Reading Ex 4, question 3",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-04-q-4",
+        "no": "4",
+        "text_en": "",
+        "options": [],
+        "answer": "D",
+        "acceptedAnswers": ["D"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 186,
+          "locator": "Unit 2 Reading Ex 4, question 4",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-04-q-5",
+        "no": "5",
+        "text_en": "",
+        "options": [],
+        "answer": "B",
+        "acceptedAnswers": ["B"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 186,
+          "locator": "Unit 2 Reading Ex 4, question 5",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-04-q-6",
+        "no": "6",
+        "text_en": "",
+        "options": [],
+        "answer": "E",
+        "acceptedAnswers": ["E"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 186,
+          "locator": "Unit 2 Reading Ex 4, question 6",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      }
+    ],
     "instructions_en": "",
     "instructions_vi": "⚠ Cần kiểm tra",
     "explanation_en": "⚠ Needs checking",
     "explanation_vi": "⚠ Cần kiểm tra",
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
-    "questionType": "source_review",
-    "answerKeyPages": [
-      186
-    ]
+    "questionType": "matching_information",
+    "answerKeyPages": [186]
   },
   {
     "id": "u2-reading-ex-05",
@@ -175,25 +247,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 5,
     "sourceLabel": "Unit 2 – Reading – Ex 05",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 30,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -204,12 +265,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-06",
@@ -218,25 +274,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 6,
     "sourceLabel": "Unit 2 – Reading – Ex 06",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 33,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -247,12 +292,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-07",
@@ -261,25 +301,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 7,
     "sourceLabel": "Unit 2 – Reading – Ex 07",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 30,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -290,12 +319,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-08",
@@ -304,25 +328,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 8,
     "sourceLabel": "Unit 2 – Reading – Ex 08",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 33,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -333,12 +346,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-09",
@@ -347,38 +355,180 @@
     "sourceSection": "Reading",
     "exerciseNo": 9,
     "sourceLabel": "Unit 2 – Reading – Ex 09",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
-    "answerStatus": "not_checked",
+    "answerStatus": "verified",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 34,
     "anchorStatus": "needs_checking",
-    "questions": [],
+    "questions": [
+      {
+        "id": "u2-reading-ex-09-q-1",
+        "no": "1",
+        "text_en": "",
+        "options": [],
+        "answer": "processed food",
+        "acceptedAnswers": ["processed food"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 9, question 1",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-09-q-2",
+        "no": "2",
+        "text_en": "",
+        "options": [],
+        "answer": "the brain",
+        "acceptedAnswers": ["the brain", "brain"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 9, question 2",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-09-q-3",
+        "no": "3",
+        "text_en": "",
+        "options": [],
+        "answer": "surge",
+        "acceptedAnswers": ["surge"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 9, question 3",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-09-q-4",
+        "no": "4",
+        "text_en": "",
+        "options": [],
+        "answer": "The kidneys",
+        "acceptedAnswers": ["The kidneys", "kidneys"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 9, question 4",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-09-q-5",
+        "no": "5",
+        "text_en": "",
+        "options": [],
+        "answer": "the elderly",
+        "acceptedAnswers": ["the elderly"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 9, question 5",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-09-q-6",
+        "no": "6",
+        "text_en": "",
+        "options": [],
+        "answer": "hunger",
+        "acceptedAnswers": ["hunger"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 9, question 6",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-09-q-7",
+        "no": "7",
+        "text_en": "",
+        "options": [],
+        "answer": "three days",
+        "acceptedAnswers": ["three days", "3 days"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 9, question 7",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      }
+    ],
     "instructions_en": "",
     "instructions_vi": "⚠ Cần kiểm tra",
     "explanation_en": "⚠ Needs checking",
     "explanation_vi": "⚠ Cần kiểm tra",
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
-    "questionType": "source_review",
-    "answerKeyPages": [
-      187
-    ]
+    "questionType": "completion",
+    "answerKeyPages": [187]
   },
   {
     "id": "u2-reading-ex-10",
@@ -387,25 +537,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 10,
     "sourceLabel": "Unit 2 – Reading – Ex 10",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 34,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -416,12 +555,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-11",
@@ -430,38 +564,92 @@
     "sourceSection": "Reading",
     "exerciseNo": 11,
     "sourceLabel": "Unit 2 – Reading – Ex 11",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
-    "answerStatus": "not_checked",
+    "answerStatus": "verified",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 34,
     "anchorStatus": "needs_checking",
-    "questions": [],
+    "questions": [
+      {
+        "id": "u2-reading-ex-11-q-8",
+        "no": "8",
+        "text_en": "",
+        "options": [],
+        "answer": "maturity",
+        "acceptedAnswers": ["maturity"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 11, question 8",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-11-q-9",
+        "no": "9",
+        "text_en": "",
+        "options": [],
+        "answer": "urge",
+        "acceptedAnswers": ["urge"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 11, question 9",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-11-q-10",
+        "no": "10",
+        "text_en": "",
+        "options": [],
+        "answer": "restraint",
+        "acceptedAnswers": ["restraint"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 11, question 10",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      }
+    ],
     "instructions_en": "",
     "instructions_vi": "⚠ Cần kiểm tra",
     "explanation_en": "⚠ Needs checking",
     "explanation_vi": "⚠ Cần kiểm tra",
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
-    "questionType": "source_review",
-    "answerKeyPages": [
-      187
-    ]
+    "questionType": "completion",
+    "answerKeyPages": [187]
   },
   {
     "id": "u2-reading-ex-12",
@@ -470,25 +658,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 12,
     "sourceLabel": "Unit 2 – Reading – Ex 12",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 34,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -499,12 +676,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-13",
@@ -513,25 +685,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 13,
     "sourceLabel": "Unit 2 – Reading – Ex 13",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 34,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -542,12 +703,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-14",
@@ -556,25 +712,14 @@
     "sourceSection": "Reading",
     "exerciseNo": 14,
     "sourceLabel": "Unit 2 – Reading – Ex 14",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 34,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -585,12 +730,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-reading-ex-15",
@@ -599,38 +739,114 @@
     "sourceSection": "Reading",
     "exerciseNo": 15,
     "sourceLabel": "Unit 2 – Reading – Ex 15",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
-    "answerStatus": "not_checked",
+    "answerStatus": "verified",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 35,
     "anchorStatus": "needs_checking",
-    "questions": [],
+    "questions": [
+      {
+        "id": "u2-reading-ex-15-q-1",
+        "no": "1",
+        "text_en": "",
+        "options": [],
+        "answer": "processed food",
+        "acceptedAnswers": ["processed food"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 15, question 1",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-15-q-2",
+        "no": "2",
+        "text_en": "",
+        "options": [],
+        "answer": "outlets",
+        "acceptedAnswers": ["outlets"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 15, question 2",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-15-q-3",
+        "no": "3",
+        "text_en": "",
+        "options": [],
+        "answer": "compulsively overeat",
+        "acceptedAnswers": ["compulsively overeat", "overeat"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 15, question 3",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-15-q-4",
+        "no": "4",
+        "text_en": "",
+        "options": [],
+        "answer": "aspirational",
+        "acceptedAnswers": ["aspirational"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 15, question 4",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      }
+    ],
     "instructions_en": "",
     "instructions_vi": "⚠ Cần kiểm tra",
     "explanation_en": "⚠ Needs checking",
     "explanation_vi": "⚠ Cần kiểm tra",
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
-    "questionType": "source_review",
-    "answerKeyPages": [
-      187
-    ]
+    "questionType": "completion",
+    "answerKeyPages": [187]
   },
   {
     "id": "u2-reading-ex-16",
@@ -639,38 +855,92 @@
     "sourceSection": "Reading",
     "exerciseNo": 16,
     "sourceLabel": "Unit 2 – Reading – Ex 16",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
-    "answerStatus": "not_checked",
+    "answerStatus": "verified",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 35,
     "anchorStatus": "needs_checking",
-    "questions": [],
+    "questions": [
+      {
+        "id": "u2-reading-ex-16-q-1",
+        "no": "1",
+        "text_en": "",
+        "options": [],
+        "answer": "B",
+        "acceptedAnswers": ["B"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 16, question 1",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-16-q-2",
+        "no": "2",
+        "text_en": "",
+        "options": [],
+        "answer": "C",
+        "acceptedAnswers": ["C"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 16, question 2",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-16-q-3",
+        "no": "3",
+        "text_en": "",
+        "options": [],
+        "answer": "A",
+        "acceptedAnswers": ["A"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 16, question 3",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      }
+    ],
     "instructions_en": "",
     "instructions_vi": "⚠ Cần kiểm tra",
     "explanation_en": "⚠ Needs checking",
     "explanation_vi": "⚠ Cần kiểm tra",
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
-    "questionType": "source_review",
-    "answerKeyPages": [
-      187
-    ]
+    "questionType": "matching",
+    "answerKeyPages": [187]
   },
   {
     "id": "u2-reading-ex-17",
@@ -679,38 +949,341 @@
     "sourceSection": "Reading",
     "exerciseNo": 17,
     "sourceLabel": "Unit 2 – Reading – Ex 17",
-    "skills": [
-      "reading"
-    ],
+    "skills": ["reading"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
-    "answerStatus": "not_checked",
+    "answerStatus": "verified",
     "translationStatus": "not_started",
-    "sourcePages": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
+    "sourcePages": [30, 31, 32, 33, 34, 35, 36, 37],
     "startPage": 30,
     "anchorStatus": "needs_checking",
-    "questions": [],
+    "questions": [
+      {
+        "id": "u2-reading-ex-17-q-1",
+        "no": "1",
+        "text_en": "",
+        "options": [],
+        "answer": "the gut",
+        "acceptedAnswers": ["the gut"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 1",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-2",
+        "no": "2",
+        "text_en": "",
+        "options": [],
+        "answer": "medical assistance",
+        "acceptedAnswers": ["medical assistance"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 2",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-3",
+        "no": "3",
+        "text_en": "",
+        "options": [],
+        "answer": "Local community",
+        "acceptedAnswers": ["Local community"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 3",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-4",
+        "no": "4",
+        "text_en": "",
+        "options": [],
+        "answer": "treatment",
+        "acceptedAnswers": ["treatment"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 4",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-5",
+        "no": "5",
+        "text_en": "",
+        "options": [],
+        "answer": "slaughter",
+        "acceptedAnswers": ["slaughter"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 5",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-6",
+        "no": "6",
+        "text_en": "",
+        "options": [],
+        "answer": "the meat",
+        "acceptedAnswers": [
+          "the meat",
+          "infected meat",
+          "meat",
+          "the flesh",
+          "infected flesh",
+          "flesh"
+        ],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 6",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-7",
+        "no": "7",
+        "text_en": "",
+        "options": [],
+        "answer": "systems",
+        "acceptedAnswers": ["systems", "bodies"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 7",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-8",
+        "no": "8",
+        "text_en": "",
+        "options": [],
+        "answer": "course",
+        "acceptedAnswers": ["course"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 8",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-9",
+        "no": "9",
+        "text_en": "",
+        "options": [],
+        "answer": "online",
+        "acceptedAnswers": ["online"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 9",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-10",
+        "no": "10",
+        "text_en": "",
+        "options": [],
+        "answer": "laboratory capacity",
+        "acceptedAnswers": ["laboratory capacity"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 10",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-11",
+        "no": "11",
+        "text_en": "",
+        "options": [],
+        "answer": "new tools",
+        "acceptedAnswers": ["new tools"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 11",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-12",
+        "no": "12",
+        "text_en": "",
+        "options": [],
+        "answer": "health benefits",
+        "acceptedAnswers": ["health benefits"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 12",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-13",
+        "no": "13",
+        "text_en": "",
+        "options": [],
+        "answer": "worldwide overuse",
+        "acceptedAnswers": ["worldwide overuse", "overuse"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 13",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-reading-ex-17-q-14",
+        "no": "14",
+        "text_en": "",
+        "options": [],
+        "answer": "crisis",
+        "acceptedAnswers": ["crisis"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 187,
+          "locator": "Unit 2 Reading Ex 17, question 14",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      }
+    ],
     "instructions_en": "",
     "instructions_vi": "⚠ Cần kiểm tra",
     "explanation_en": "⚠ Needs checking",
     "explanation_vi": "⚠ Cần kiểm tra",
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
-    "questionType": "source_review",
-    "answerKeyPages": [
-      187
-    ]
+    "questionType": "completion",
+    "answerKeyPages": [187]
   },
   {
     "id": "u2-writing-ex-01",
@@ -719,21 +1292,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 1,
     "sourceLabel": "Unit 2 – Writing – Ex 01",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -744,12 +1310,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-02",
@@ -758,21 +1319,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 2,
     "sourceLabel": "Unit 2 – Writing – Ex 02",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -783,12 +1337,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-03",
@@ -797,21 +1346,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 3,
     "sourceLabel": "Unit 2 – Writing – Ex 03",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -822,12 +1364,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-04",
@@ -836,21 +1373,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 4,
     "sourceLabel": "Unit 2 – Writing – Ex 04",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -861,12 +1391,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-05",
@@ -875,21 +1400,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 5,
     "sourceLabel": "Unit 2 – Writing – Ex 05",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -900,12 +1418,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-06",
@@ -914,21 +1427,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 6,
     "sourceLabel": "Unit 2 – Writing – Ex 06",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -939,12 +1445,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-07",
@@ -953,21 +1454,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 7,
     "sourceLabel": "Unit 2 – Writing – Ex 07",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -978,12 +1472,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-08",
@@ -992,21 +1481,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 8,
     "sourceLabel": "Unit 2 – Writing – Ex 08",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1017,12 +1499,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-09",
@@ -1031,21 +1508,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 9,
     "sourceLabel": "Unit 2 – Writing – Ex 09",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1056,12 +1526,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-10",
@@ -1070,21 +1535,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 10,
     "sourceLabel": "Unit 2 – Writing – Ex 10",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1095,12 +1553,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-11",
@@ -1109,21 +1562,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 11,
     "sourceLabel": "Unit 2 – Writing – Ex 11",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1134,12 +1580,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-writing-ex-12",
@@ -1148,21 +1589,14 @@
     "sourceSection": "Writing",
     "exerciseNo": 12,
     "sourceLabel": "Unit 2 – Writing – Ex 12",
-    "skills": [
-      "writing"
-    ],
+    "skills": ["writing"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      38,
-      39,
-      40,
-      41
-    ],
+    "sourcePages": [38, 39, 40, 41],
     "startPage": 38,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1173,12 +1607,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-01",
@@ -1187,22 +1616,14 @@
     "sourceSection": "Listening",
     "exerciseNo": 1,
     "sourceLabel": "Unit 2 – Listening – Ex 01",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1213,12 +1634,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-02",
@@ -1227,22 +1643,14 @@
     "sourceSection": "Listening",
     "exerciseNo": 2,
     "sourceLabel": "Unit 2 – Listening – Ex 02",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1253,12 +1661,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-03",
@@ -1267,22 +1670,14 @@
     "sourceSection": "Listening",
     "exerciseNo": 3,
     "sourceLabel": "Unit 2 – Listening – Ex 03",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1293,12 +1688,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-04",
@@ -1307,22 +1697,14 @@
     "sourceSection": "Listening",
     "exerciseNo": 4,
     "sourceLabel": "Unit 2 – Listening – Ex 04",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1333,12 +1715,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-05",
@@ -1347,22 +1724,14 @@
     "sourceSection": "Listening",
     "exerciseNo": 5,
     "sourceLabel": "Unit 2 – Listening – Ex 05",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1373,12 +1742,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-06",
@@ -1387,24 +1751,14 @@
     "sourceSection": "Listening",
     "exerciseNo": 6,
     "sourceLabel": "Unit 2 – Listening – Ex 06",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
-    "audioTracks": [
-      "10"
-    ],
+    "audioTracks": ["10"],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1415,12 +1769,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-07",
@@ -1429,22 +1778,14 @@
     "sourceSection": "Listening",
     "exerciseNo": 7,
     "sourceLabel": "Unit 2 – Listening – Ex 07",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 44,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1455,12 +1796,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-08",
@@ -1469,37 +1805,136 @@
     "sourceSection": "Listening",
     "exerciseNo": 8,
     "sourceLabel": "Unit 2 – Listening – Ex 08",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
-    "audioTracks": [
-      "11"
-    ],
+    "audioTracks": ["11"],
     "contentStatus": "source_pages_available",
-    "answerStatus": "not_checked",
+    "answerStatus": "verified",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
-    "questions": [],
+    "questions": [
+      {
+        "id": "u2-listening-ex-08-q-1",
+        "no": "1",
+        "text_en": "",
+        "options": [],
+        "answer": "Vegetarian",
+        "acceptedAnswers": ["Vegetarian"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 8, question 1",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-08-q-2",
+        "no": "2",
+        "text_en": "",
+        "options": [],
+        "answer": "A14",
+        "acceptedAnswers": ["A14"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 8, question 2",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-08-q-3",
+        "no": "3",
+        "text_en": "",
+        "options": [],
+        "answer": "C16",
+        "acceptedAnswers": ["C16"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 8, question 3",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-08-q-4",
+        "no": "4",
+        "text_en": "",
+        "options": [],
+        "answer": "Hot Air",
+        "acceptedAnswers": ["Hot Air"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 8, question 4",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-08-q-5",
+        "no": "5",
+        "text_en": "",
+        "options": [],
+        "answer": "Siobhan",
+        "acceptedAnswers": ["Siobhan"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 8, question 5",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      }
+    ],
     "instructions_en": "",
     "instructions_vi": "⚠ Cần kiểm tra",
     "explanation_en": "⚠ Needs checking",
     "explanation_vi": "⚠ Cần kiểm tra",
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
-    "questionType": "source_review",
-    "answerKeyPages": [
-      188
-    ]
+    "questionType": "completion",
+    "answerKeyPages": [188]
   },
   {
     "id": "u2-listening-ex-09",
@@ -1508,36 +1943,158 @@
     "sourceSection": "Listening",
     "exerciseNo": 9,
     "sourceLabel": "Unit 2 – Listening – Ex 09",
-    "skills": [
-      "listening",
-      "grammar"
-    ],
+    "skills": ["listening", "grammar"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
-    "answerStatus": "not_checked",
+    "answerStatus": "verified",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
-    "questions": [],
+    "questions": [
+      {
+        "id": "u2-listening-ex-09-q-1",
+        "no": "1",
+        "text_en": "",
+        "options": [],
+        "answer": "a number of",
+        "acceptedAnswers": ["a number of"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 9, question 1",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-09-q-2",
+        "no": "2",
+        "text_en": "",
+        "options": [],
+        "answer": "Both of them",
+        "acceptedAnswers": ["Both of them", "Both"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 9, question 2",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-09-q-3",
+        "no": "3",
+        "text_en": "",
+        "options": [],
+        "answer": "either of those",
+        "acceptedAnswers": ["either of those"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 9, question 3",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-09-q-4",
+        "no": "4",
+        "text_en": "",
+        "options": [],
+        "answer": "All of the",
+        "acceptedAnswers": ["All of the", "All"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 9, question 4",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-09-q-5",
+        "no": "5",
+        "text_en": "",
+        "options": [],
+        "answer": "None of those",
+        "acceptedAnswers": ["None of those"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 9, question 5",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-09-q-6",
+        "no": "6",
+        "text_en": "",
+        "options": [],
+        "answer": "The whole",
+        "acceptedAnswers": ["The whole", "The whole of the"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 9, question 6",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      }
+    ],
     "instructions_en": "",
     "instructions_vi": "⚠ Cần kiểm tra",
     "explanation_en": "⚠ Needs checking",
     "explanation_vi": "⚠ Cần kiểm tra",
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
-    "questionType": "source_review",
-    "answerKeyPages": [
-      188
-    ]
+    "questionType": "grammar",
+    "answerKeyPages": [188]
   },
   {
     "id": "u2-listening-ex-10",
@@ -1546,22 +2103,14 @@
     "sourceSection": "Listening",
     "exerciseNo": 10,
     "sourceLabel": "Unit 2 – Listening – Ex 10",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1572,12 +2121,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-11",
@@ -1586,22 +2130,14 @@
     "sourceSection": "Listening",
     "exerciseNo": 11,
     "sourceLabel": "Unit 2 – Listening – Ex 11",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 46,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1612,12 +2148,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-12",
@@ -1626,22 +2157,14 @@
     "sourceSection": "Listening",
     "exerciseNo": 12,
     "sourceLabel": "Unit 2 – Listening – Ex 12",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1652,12 +2175,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-listening-ex-13",
@@ -1666,37 +2184,158 @@
     "sourceSection": "Listening",
     "exerciseNo": 13,
     "sourceLabel": "Unit 2 – Listening – Ex 13",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
-    "audioTracks": [
-      "12"
-    ],
+    "audioTracks": ["12"],
     "contentStatus": "source_pages_available",
-    "answerStatus": "not_checked",
+    "answerStatus": "verified",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
-    "questions": [],
+    "questions": [
+      {
+        "id": "u2-listening-ex-13-q-1",
+        "no": "1",
+        "text_en": "",
+        "options": [],
+        "answer": "Claire Enwark",
+        "acceptedAnswers": ["Claire Enwark"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 13, question 1",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-13-q-2",
+        "no": "2",
+        "text_en": "",
+        "options": [],
+        "answer": "fortnight",
+        "acceptedAnswers": ["fortnight"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 13, question 2",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-13-q-3",
+        "no": "3",
+        "text_en": "",
+        "options": [],
+        "answer": "10K",
+        "acceptedAnswers": ["10K", "10km"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 13, question 3",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-13-q-4",
+        "no": "4",
+        "text_en": "",
+        "options": [],
+        "answer": "Manchester",
+        "acceptedAnswers": ["Manchester"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 13, question 4",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-13-q-5",
+        "no": "5",
+        "text_en": "",
+        "options": [],
+        "answer": "pale blue",
+        "acceptedAnswers": ["pale blue"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 13, question 5",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-13-q-6",
+        "no": "6",
+        "text_en": "",
+        "options": [],
+        "answer": "50",
+        "acceptedAnswers": ["50"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 13, question 6",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      }
+    ],
     "instructions_en": "",
     "instructions_vi": "⚠ Cần kiểm tra",
     "explanation_en": "⚠ Needs checking",
     "explanation_vi": "⚠ Cần kiểm tra",
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
-    "questionType": "source_review",
-    "answerKeyPages": [
-      188
-    ]
+    "questionType": "completion",
+    "answerKeyPages": [188]
   },
   {
     "id": "u2-listening-ex-14",
@@ -1705,37 +2344,246 @@
     "sourceSection": "Listening",
     "exerciseNo": 14,
     "sourceLabel": "Unit 2 – Listening – Ex 14",
-    "skills": [
-      "listening"
-    ],
+    "skills": ["listening"],
     "questionTypes": [],
     "difficulty": null,
-    "audioTracks": [
-      "13"
-    ],
+    "audioTracks": ["13"],
     "contentStatus": "source_pages_available",
-    "answerStatus": "not_checked",
+    "answerStatus": "verified",
     "translationStatus": "not_started",
-    "sourcePages": [
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
+    "sourcePages": [42, 43, 44, 45, 46],
     "startPage": 42,
     "anchorStatus": "needs_checking",
-    "questions": [],
+    "questions": [
+      {
+        "id": "u2-listening-ex-14-q-1",
+        "no": "1",
+        "text_en": "",
+        "options": [],
+        "answer": "vegetarian",
+        "acceptedAnswers": ["vegetarian"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 14, question 1",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-14-q-2",
+        "no": "2",
+        "text_en": "",
+        "options": [],
+        "answer": "Wednesford",
+        "acceptedAnswers": ["Wednesford"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 14, question 2",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-14-q-3",
+        "no": "3",
+        "text_en": "",
+        "options": [],
+        "answer": "7",
+        "acceptedAnswers": ["7", "seven o’clock", "7.00", "7 pm"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 14, question 3",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-14-q-4",
+        "no": "4",
+        "text_en": "",
+        "options": [],
+        "answer": "covered market",
+        "acceptedAnswers": ["covered market"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 14, question 4",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-14-q-5",
+        "no": "5",
+        "text_en": "",
+        "options": [],
+        "answer": "Coffee Club",
+        "acceptedAnswers": ["Coffee Club"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 14, question 5",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-14-q-6",
+        "no": "6",
+        "text_en": "",
+        "options": [],
+        "answer": "free",
+        "acceptedAnswers": ["free", "nothing", "£0"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 14, question 6",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-14-q-7",
+        "no": "7",
+        "text_en": "",
+        "options": [],
+        "answer": "2 hours",
+        "acceptedAnswers": ["2 hours", "two hours"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 14, question 7",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-14-q-8",
+        "no": "8",
+        "text_en": "",
+        "options": [],
+        "answer": "10%",
+        "acceptedAnswers": ["10%"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 14, question 8",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-14-q-9",
+        "no": "9",
+        "text_en": "",
+        "options": [],
+        "answer": "email",
+        "acceptedAnswers": ["email"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 14, question 9",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      },
+      {
+        "id": "u2-listening-ex-14-q-10",
+        "no": "10",
+        "text_en": "",
+        "options": [],
+        "answer": "celebrity chefs",
+        "acceptedAnswers": ["celebrity chefs"],
+        "answerStatus": "verified",
+        "inputType": "text",
+        "wordLimit": null,
+        "explanation_en": "⚠ Needs checking: the answer is verified in the Answer Key; a detailed explanation has not yet been checked.",
+        "explanation_vi": "⚠ Cần kiểm tra: đáp án đã đối chiếu Answer Key; lời giải chi tiết chưa được kiểm chứng.",
+        "evidence": {
+          "page": 188,
+          "locator": "Unit 2 Listening Ex 14, question 10",
+          "quote_en": "",
+          "status": "needs_checking"
+        },
+        "keywords": [],
+        "tips_en": "⚠ Needs checking",
+        "tips_vi": "⚠ Cần kiểm tra"
+      }
+    ],
     "instructions_en": "",
     "instructions_vi": "⚠ Cần kiểm tra",
     "explanation_en": "⚠ Needs checking",
     "explanation_vi": "⚠ Cần kiểm tra",
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
-    "questionType": "source_review",
-    "answerKeyPages": [
-      188
-    ]
+    "questionType": "completion",
+    "answerKeyPages": [188]
   },
   {
     "id": "u2-speaking-ex-01",
@@ -1744,22 +2592,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 1,
     "sourceLabel": "Unit 2 – Speaking – Ex 01",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 47,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1770,12 +2610,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-02",
@@ -1784,22 +2619,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 2,
     "sourceLabel": "Unit 2 – Speaking – Ex 02",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 47,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1810,12 +2637,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-03",
@@ -1824,24 +2646,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 3,
     "sourceLabel": "Unit 2 – Speaking – Ex 03",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
-    "audioTracks": [
-      "14"
-    ],
+    "audioTracks": ["14"],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 48,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1852,12 +2664,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-04",
@@ -1866,22 +2673,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 4,
     "sourceLabel": "Unit 2 – Speaking – Ex 04",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 48,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1892,12 +2691,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-05",
@@ -1906,24 +2700,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 5,
     "sourceLabel": "Unit 2 – Speaking – Ex 05",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
-    "audioTracks": [
-      "15"
-    ],
+    "audioTracks": ["15"],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 47,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1934,12 +2718,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-06",
@@ -1948,24 +2727,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 6,
     "sourceLabel": "Unit 2 – Speaking – Ex 06",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
-    "audioTracks": [
-      "16"
-    ],
+    "audioTracks": ["16"],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 47,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -1976,12 +2745,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-07",
@@ -1990,22 +2754,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 7,
     "sourceLabel": "Unit 2 – Speaking – Ex 07",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 47,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -2016,12 +2772,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-08",
@@ -2030,24 +2781,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 8,
     "sourceLabel": "Unit 2 – Speaking – Ex 08",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
-    "audioTracks": [
-      "17"
-    ],
+    "audioTracks": ["17"],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 50,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -2058,12 +2799,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-09",
@@ -2072,22 +2808,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 9,
     "sourceLabel": "Unit 2 – Speaking – Ex 09",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 47,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -2098,12 +2826,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-10",
@@ -2112,22 +2835,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 10,
     "sourceLabel": "Unit 2 – Speaking – Ex 10",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 47,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -2138,12 +2853,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-11",
@@ -2152,22 +2862,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 11,
     "sourceLabel": "Unit 2 – Speaking – Ex 11",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 51,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -2178,12 +2880,7 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   },
   {
     "id": "u2-speaking-ex-12",
@@ -2192,22 +2889,14 @@
     "sourceSection": "Speaking",
     "exerciseNo": 12,
     "sourceLabel": "Unit 2 – Speaking – Ex 12",
-    "skills": [
-      "speaking"
-    ],
+    "skills": ["speaking"],
     "questionTypes": [],
     "difficulty": null,
     "audioTracks": [],
     "contentStatus": "source_pages_available",
     "answerStatus": "not_checked",
     "translationStatus": "not_started",
-    "sourcePages": [
-      47,
-      48,
-      49,
-      50,
-      51
-    ],
+    "sourcePages": [47, 48, 49, 50, 51],
     "startPage": 47,
     "anchorStatus": "needs_checking",
     "questions": [],
@@ -2218,11 +2907,6 @@
     "tips_en": "⚠ Needs checking",
     "tips_vi": "⚠ Cần kiểm tra",
     "questionType": "source_review",
-    "answerKeyPages": [
-      186,
-      187,
-      188,
-      189
-    ]
+    "answerKeyPages": [186, 187, 188, 189]
   }
 ]
