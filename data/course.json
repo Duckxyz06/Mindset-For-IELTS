@@ -1,0 +1,370 @@
+{
+  "title": "Mindset for IELTS Level 3",
+  "version": "2.0.0",
+  "source": {
+    "filename": "Mindset for IELTS Level 3 Student_s Book(3).pdf",
+    "publisher": "Cambridge University Press & UCLES",
+    "year": 2018,
+    "pdfPageOffset": 2
+  },
+  "units": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Urban and Rural Life",
+        "vi": "Cuộc sống thành thị và nông thôn"
+      },
+      "color": "#1565c0",
+      "tint": "#eaf3ff",
+      "pages": [
+        8,
+        29
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "Health",
+        "vi": "Sức khỏe"
+      },
+      "color": "#00796b",
+      "tint": "#e4f5f0",
+      "pages": [
+        30,
+        51
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "Art and Architecture",
+        "vi": "Nghệ thuật và kiến trúc"
+      },
+      "color": "#7b36a6",
+      "tint": "#f3ebfa",
+      "pages": [
+        52,
+        72
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "en": "Finance and Business",
+        "vi": "Tài chính và kinh doanh"
+      },
+      "color": "#c26219",
+      "tint": "#fff1e6",
+      "pages": [
+        73,
+        92
+      ]
+    },
+    {
+      "id": 5,
+      "name": {
+        "en": "History",
+        "vi": "Lịch sử"
+      },
+      "color": "#ac3d46",
+      "tint": "#fceded",
+      "pages": [
+        93,
+        113
+      ]
+    },
+    {
+      "id": 6,
+      "name": {
+        "en": "Science and Technology",
+        "vi": "Khoa học và công nghệ"
+      },
+      "color": "#087d98",
+      "tint": "#e7f6fa",
+      "pages": [
+        114,
+        138
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "reading",
+      "name": {
+        "vi": "Đọc",
+        "en": "Reading"
+      },
+      "symbol": "R",
+      "color": "#1976d2"
+    },
+    {
+      "id": "writing",
+      "name": {
+        "vi": "Viết",
+        "en": "Writing"
+      },
+      "symbol": "W",
+      "color": "#8e3eaa"
+    },
+    {
+      "id": "listening",
+      "name": {
+        "vi": "Nghe",
+        "en": "Listening"
+      },
+      "symbol": "L",
+      "color": "#d06a18"
+    },
+    {
+      "id": "speaking",
+      "name": {
+        "vi": "Nói",
+        "en": "Speaking"
+      },
+      "symbol": "S",
+      "color": "#167d68"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "u1-reading",
+      "unit": 1,
+      "skill": "reading",
+      "pages": [
+        8,
+        13
+      ],
+      "count": 18
+    },
+    {
+      "id": "u1-writing",
+      "unit": 1,
+      "skill": "writing",
+      "pages": [
+        14,
+        18
+      ],
+      "count": 11
+    },
+    {
+      "id": "u1-listening",
+      "unit": 1,
+      "skill": "listening",
+      "pages": [
+        19,
+        24
+      ],
+      "count": 16
+    },
+    {
+      "id": "u1-speaking",
+      "unit": 1,
+      "skill": "speaking",
+      "pages": [
+        25,
+        29
+      ],
+      "count": 18
+    },
+    {
+      "id": "u2-reading",
+      "unit": 2,
+      "skill": "reading",
+      "pages": [
+        30,
+        37
+      ],
+      "count": 17
+    },
+    {
+      "id": "u2-writing",
+      "unit": 2,
+      "skill": "writing",
+      "pages": [
+        38,
+        41
+      ],
+      "count": 12
+    },
+    {
+      "id": "u2-listening",
+      "unit": 2,
+      "skill": "listening",
+      "pages": [
+        42,
+        46
+      ],
+      "count": 14
+    },
+    {
+      "id": "u2-speaking",
+      "unit": 2,
+      "skill": "speaking",
+      "pages": [
+        47,
+        51
+      ],
+      "count": 12
+    },
+    {
+      "id": "u3-reading",
+      "unit": 3,
+      "skill": "reading",
+      "pages": [
+        52,
+        58
+      ],
+      "count": 16
+    },
+    {
+      "id": "u3-writing",
+      "unit": 3,
+      "skill": "writing",
+      "pages": [
+        59,
+        64
+      ],
+      "count": 16
+    },
+    {
+      "id": "u3-listening",
+      "unit": 3,
+      "skill": "listening",
+      "pages": [
+        65,
+        68
+      ],
+      "count": 15
+    },
+    {
+      "id": "u3-speaking",
+      "unit": 3,
+      "skill": "speaking",
+      "pages": [
+        69,
+        72
+      ],
+      "count": 17
+    },
+    {
+      "id": "u4-reading",
+      "unit": 4,
+      "skill": "reading",
+      "pages": [
+        73,
+        78
+      ],
+      "count": 13
+    },
+    {
+      "id": "u4-writing",
+      "unit": 4,
+      "skill": "writing",
+      "pages": [
+        79,
+        83
+      ],
+      "count": 14
+    },
+    {
+      "id": "u4-listening",
+      "unit": 4,
+      "skill": "listening",
+      "pages": [
+        84,
+        87
+      ],
+      "count": 12
+    },
+    {
+      "id": "u4-speaking",
+      "unit": 4,
+      "skill": "speaking",
+      "pages": [
+        88,
+        92
+      ],
+      "count": 14
+    },
+    {
+      "id": "u5-reading",
+      "unit": 5,
+      "skill": "reading",
+      "pages": [
+        93,
+        99
+      ],
+      "count": 16
+    },
+    {
+      "id": "u5-writing",
+      "unit": 5,
+      "skill": "writing",
+      "pages": [
+        100,
+        104
+      ],
+      "count": 11
+    },
+    {
+      "id": "u5-listening",
+      "unit": 5,
+      "skill": "listening",
+      "pages": [
+        105,
+        109
+      ],
+      "count": 13
+    },
+    {
+      "id": "u5-speaking",
+      "unit": 5,
+      "skill": "speaking",
+      "pages": [
+        110,
+        113
+      ],
+      "count": 14
+    },
+    {
+      "id": "u6-reading",
+      "unit": 6,
+      "skill": "reading",
+      "pages": [
+        114,
+        121
+      ],
+      "count": 13
+    },
+    {
+      "id": "u6-writing",
+      "unit": 6,
+      "skill": "writing",
+      "pages": [
+        122,
+        126
+      ],
+      "count": 14
+    },
+    {
+      "id": "u6-listening",
+      "unit": 6,
+      "skill": "listening",
+      "pages": [
+        127,
+        132
+      ],
+      "count": 15
+    },
+    {
+      "id": "u6-speaking",
+      "unit": 6,
+      "skill": "speaking",
+      "pages": [
+        133,
+        138
+      ],
+      "count": 16
+    }
+  ]
+}

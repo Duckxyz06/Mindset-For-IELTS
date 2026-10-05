@@ -1,85 +1,37 @@
-# IELTS Mindset 3 – Study Hub
+# Mindset for IELTS · Level 3 · Units 1–6
 
-React + Vite + Tailwind CSS, static study application for English Language Skills 5. UI: Vietnamese, English, or both; solutions can use a separate language. Original IELTS practice content stays in English.
+A complete static study website, redesigned in the colourful Vietnamese/English study-card style of [Phonology](https://github.com/Duckxyz06/Phonology-).
 
-> **Content verification is incomplete.** This release makes all Unit 1–5 source pages and 289 exercise entries accessible, but it does not claim that all 289 exercises have complete interactive questions or verified bilingual explanations. Unknown material is labelled **⚠ Needs checking / ⚠ Cần kiểm tra**. See `public/coverage-report.json` and `docs/CONTENT_STATUS.md`.
+## Study content
+
+- 6 units, 24 Reading / Writing / Listening / Speaking lessons.
+- All 131 original teaching pages, printed pages 8–138, from the supplied Student’s Book PDF.
+- 347 numbered exercise workspaces. Questions, passages, tables, pictures, charts, TIP boxes and EXAM SKILLS remain intact on the source pages.
+- Original Answer Key excerpts for each skill, placed **after** its teaching content. Includes the original model essays and open-task sample answers.
+- Listening Scripts for Units 1–6; original audio files available in the previous repository are retained as learning assets.
+- Vietnamese/English navigation and learning objectives; source lessons remain in their original English.
+- Device-local saving of answers and self-review progress, answer checks for transcribed fixed-answer questions, selectable source text, zoom and download of answers.
+
+All previous application source has been replaced. Only relevant original learning assets and checked fixed-answer data were carried into the new site.
 
 ## Run
 
-Node.js 22 or later:
-
 ```sh
-npm ci
-npm run dev
 npm test
 npm run build
-npm run preview
+npm run dev
 ```
 
-For preview, open `/Mindset-For-IELTS/`. The application uses `HashRouter` and `base: '/Mindset-For-IELTS/'`; assets use `import.meta.env.BASE_URL`.
+Open `http://localhost:8765`. No packages need to be installed. Serve through HTTP; `file://` cannot load lesson JSON files. GitHub Actions validates, builds and deploys `dist/` to GitHub Pages when `main` changes.
 
-## Features
+All paths are relative, including hash navigation, so the app works under `/Mindset-For-IELTS/`.
 
-- Dashboard, Unit → section → exercise table of contents, filters, bookmarks and personal notes.
-- Original source pages, charts and maps; accessible extracted English text.
-- 391 checked objective answer entries from the supplied Answer Key. Other answers stay ungraded. Details and evidence are explicitly pending verification.
-- All 52 supplied MP3 tracks, 54,970,816 bytes, unchanged SHA-256 hashes. 27 tracks map to Units 1–5; 25 additional tracks remain accessible. 16 required Unit 1–5 tracks are absent from the supplied ZIP.
-- Persistent player: ±5 seconds, speed, A–B repeat, keyboard controls. Original script page viewer. Script translation and timed cues remain pending.
-- Writing drafts, word counts and 20/40-minute timers; original book models and one teacher-authored Task 2 supplement.
-- Seven source topic cards, 1-minute preparation + 2-minute speaking countdown, microphone recording/playback/download, browser IndexedDB storage, course self-assessment rubric (1–4).
-- 30 teacher-authored vocabulary entries, flashcards, three review directions, mini-quiz and browser pronunciation.
-- Assembled final practice (Reading + Task 2, 90 minutes) and progress practice with available Track 41. These are **practice papers**, not official course exams.
-- Browser progress, skill charts, JSON export/import with safe merging. Recording blobs are separate; download them individually.
+## Content and assessment notes
 
-## Structure
+The page images are the source of truth. Extracted selectable PDF text can contain OCR errors. Fixed-answer inputs only use checked transcriptions; other exercises provide an open response area and the original key for self-review. This site does not assign an IELTS band score to Writing or Speaking.
 
-```text
-src/App.jsx                    routes and study screens
-src/components/                original page reader and persistent player
-src/lib/                       i18n context, grading, storage, data loader
-src/locales/en.json, vi.json    all translatable UI strings
-src/data/unit-1.json … unit-5.json
-src/data/audio-manifest.json   file/track/exercise mapping, duration, hash
-src/data/source-pages.json     source page text and image paths
-public/source-pages/           original book page images
-public/audio/                  all supplied audio
-public/coverage-report.json    unresolved material, missing/unmatched tracks
-scripts/validate-data.mjs      locale, source and audio integrity checks
-.github/workflows/deploy.yml   test, build, GitHub Pages deployment
-```
+Missing original audio files: **02, 03, 04, 05, 06, 07, 08, 10, 11, 12, 13, 22, 23, 24, 29, 30**. These are visibly labelled in the player area and have the original Listening Scripts available. Other unrelated Unit 7–8 audio files were removed.
 
-The book has Reading/Writing/Listening/Speaking sections, not numbered Lesson 1.1 etc. Source section names and Exercise numbers are retained; internal IDs are stable.
+Answers and progress are saved only in this browser; they are not sent to GitHub or any server. Use “Download answers” to keep a copy outside the browser.
 
-## Add or correct content
-
-1. Edit the appropriate `src/data/unit-N.json`; keep original Exercise and question labels.
-2. Transcribe the question from the book and the answer from its Answer Key. Record the printed source page in `evidence.page`.
-3. Set `answerStatus: "verified"` only after checking the source and question alignment. `acceptedAnswers` contains only supported variants. Unknown answers use `needs_checking` and are excluded from automatic scoring.
-4. Add paired `explanation_en` / `explanation_vi`, `tips_en` / `tips_vi`. A detailed explanation must cite the original passage/script location. Until reviewed, retain the warning marker.
-5. Update `public/coverage-report.json`; run the tests and build.
-
-## Add translations
-
-Add the same key to `src/locales/en.json` and `vi.json`. Components use `useT()` / `t('key')`; `Bi` displays EN then VI in bilingual solutions. Keys are flat (`keySeparator: false`). Never translate original IELTS passages, prompts or models in place; translations belong in separate fields.
-
-## Add audio
-
-Copy the supplied original into `public/audio/unitN/track-XX.mp3`, or `additional/` when no match is confirmed. Add original name, file path, size, duration, SHA-256 and **checked** Exercise references to `src/data/audio-manifest.json`. Do not invent a mapping. Add script source pages when verified. Keep unavailable references in `audio-requirements.json`.
-
-The supplied files are well below 100 MB each and their total is about 55 MB; Git LFS is not used. Original ZIPs and PDFs are excluded from Git.
-
-## GitHub Pages
-
-Repository: https://github.com/Duckxyz06/Mindset-For-IELTS
-
-**One repository setting is required:** Settings → Pages → Build and deployment → Source → **GitHub Actions**. The connector cannot change this administrative setting. Run the `Build and deploy Study Hub` workflow if the previous deploy failed before Pages was enabled.
-
-Intended URL: https://duckxyz06.github.io/Mindset-For-IELTS/
-
-The workflow tests, validates all original audio hashes, builds, uploads `dist`, then deploys to Pages. No passwords or tokens are stored in this repository.
-
-## Source and verification
-
-Source: user-supplied Cambridge *Mindset for IELTS Level 3 – Student's Book*, supplied audio archive, and English Skills 5 course document. Supplements are labelled teacher-authored. Course rubric is not an IELTS band conversion. Writing descriptors reference: https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf . Do not infer automatic Writing/Speaking bands from this app.
-
-See `docs/stage-1` for source/audio audit and `design/stage-2` for the data/i18n/wireframe design.
+Source: *Mindset for IELTS Level 3 Student’s Book*, Cambridge University Press and UCLES, 2018, from the PDF supplied for this task. Original textbook copyright and acknowledgements belong to their respective owners.
